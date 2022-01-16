@@ -1,0 +1,7 @@
+[user]
+	email = mohamedwanna@gmail.com
+	name = Mohamed Wanna
+[core]
+	pager = cat
+[color "diff"]
+	meta = blue black bold
